@@ -1,0 +1,9 @@
+<resources>
+    <style name="Theme.MedSupplyGuardian" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Define your colors here if needed -->
+        <item name="colorPrimary">@color/md_theme_light_primary</item>
+        <item name="colorOnPrimary">@color/md_theme_light_onPrimary</item>
+        <item name="colorSecondary">@color/md_theme_light_secondary</item>
+        <item name="colorOnSecondary">@color/md_theme_light_onSecondary</item>
+    </style>
+</resources>
